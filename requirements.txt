@@ -1,0 +1,9 @@
+youtube_transcript_api
+streamlit
+langchain
+openai
+python-dotenv
+faiss-cpu
+altair
+tiktoken
+pathlib
